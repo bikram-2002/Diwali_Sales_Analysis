@@ -60,9 +60,8 @@ Contributions to the project are welcome! If you have any suggestions, feature r
 
 ## Contact Information
 
-- Check my Portfolio here: [Saikat Das](https://xsaikat.vercel.app/)
-- Connect with me on LinkedIn: [Saikat Das](https://www.linkedin.com/in/saikat933/)
-- For inquiries, reach out via email: ibx.saikat37@gmail.com
+- Connect with me on LinkedIn: [Bikram Mandal](https://www.linkedin.com/in/bikram-mandal-3b080a223)
+- For inquiries, reach out via email: bikrammandal812@gmail.com
 
 Thank you for exploring this project!
 
